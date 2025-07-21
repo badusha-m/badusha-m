@@ -33,7 +33,7 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Model-%235A5A5A.svg?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-%23009688.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-%23009688.svg?style=for-the-badge)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
