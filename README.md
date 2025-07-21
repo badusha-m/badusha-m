@@ -1,14 +1,13 @@
 # 💫 About Me:
-Hi! I'm a passionate and results-driven **Python Backend Developer** with over **6 years of experience** crafting scalable APIs, microservices, and intelligent backend systems. I specialize in **Django**, **FastAPI**, and **PostgreSQL**, and have deep expertise in **cloud-native development** using **AWS** and **Docker**.
 
-🔍 My recent focus has been on building **GenAI-powered applications**, including:
-- 💬 Conversational AI platforms
-- 🔍 Retrieval-Augmented Generation (RAG) pipelines
-- ⚙️ Real-time LLM integrations using LangChain and Langfuse
+Technology enthusiast with a strong interest in backend development, cloud-native systems, and AI-driven applications. I enjoy building clean, scalable software using Python frameworks like **Django** and **FastAPI**, and working with tools such as **PostgreSQL**, **Docker**, and **AWS**.
 
-🚀 I enjoy solving complex problems, designing robust architectures, and delivering clean, production-ready code. Whether it’s healthcare, e-commerce, or dev tools—I bring **a strong sense of ownership**, **collaboration**, and **adaptability** to every project.
+My recent work includes projects involving:
+- Conversational AI platforms
+- Retrieval-Augmented Generation (RAG) pipelines
+- Real-time **LLM** integrations using **LangChain** and **Langfuse**
 
-Let’s build something impactful!
+I’m always exploring new technologies, solving meaningful problems, and collaborating with teams to bring impactful ideas to life.
 
 ---
 
