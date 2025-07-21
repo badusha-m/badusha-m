@@ -22,6 +22,7 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 
 **GenAI / ML / NLP**  
 ![LangChain](https://img.shields.io/badge/LangChain-ffcc00?style=for-the-badge&logo=langchain&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
