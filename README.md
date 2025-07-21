@@ -20,11 +20,6 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-%23123.svg?style=for-the-badge&logo=data&logoColor=white)
-
 **GenAI / ML / NLP**  
 ![LangChain](https://img.shields.io/badge/LangChain-ffcc00?style=for-the-badge&logo=langchain&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -34,6 +29,11 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Model-%235A5A5A.svg?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-%23009688.svg?style=for-the-badge)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23123.svg?style=for-the-badge&logo=data&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
