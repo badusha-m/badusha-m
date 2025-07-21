@@ -28,6 +28,12 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 **GenAI / ML / NLP**  
 ![LangChain](https://img.shields.io/badge/LangChain-ffcc00?style=for-the-badge&logo=langchain&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Model-%235A5A5A.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-%23009688.svg?style=for-the-badge)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
