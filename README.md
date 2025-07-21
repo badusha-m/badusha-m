@@ -22,12 +22,12 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 
 **GenAI / ML / NLP**  
 ![LangChain](https://img.shields.io/badge/LangChain-ffcc00?style=for-the-badge&logo=langchain&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white)
+![🧠 NLP](https://img.shields.io/badge/🧠%20NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Model-%235A5A5A.svg?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-%23009688.svg?style=for-the-badge)
 
