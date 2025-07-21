@@ -1,13 +1,13 @@
-# 💫 About Me:
+# 🌐 About Me:
 
-Technology enthusiast with a strong interest in backend development, cloud-native systems, and AI-driven applications. I enjoy building clean, scalable software using Python frameworks like **Django** and **FastAPI**, and working with tools such as **PostgreSQL**, **Docker**, and **AWS**.
+Technology enthusiast and curious developer who loves exploring how software can solve real-world problems. I'm passionate about building things that are simple, useful, and scalable.
 
-My recent work includes projects involving:
-- Conversational AI platforms
-- Retrieval-Augmented Generation (RAG) pipelines
-- Real-time **LLM** integrations using **LangChain** and **Langfuse**
+Currently diving deeper into the world of **Artificial Intelligence**, **Machine Learning**, and **Generative AI** — including areas like:
+- Conversational AI
+- Retrieval-Augmented Generation (RAG)
+- Large Language Model (LLM) applications
 
-I’m always exploring new technologies, solving meaningful problems, and collaborating with teams to bring impactful ideas to life.
+Always excited to learn, experiment, and collaborate on meaningful projects that make an impact.
 
 ---
 
@@ -53,10 +53,6 @@ I’m always exploring new technologies, solving meaningful problems, and collab
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=badusha-m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=badusha-m&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=badusha-m&theme=dark&hide_border=false&layout=compact)
 
 ---
