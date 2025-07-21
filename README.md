@@ -28,7 +28,7 @@ Always excited to learn, experiment, and collaborate on meaningful projects that
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-%20-4B8BBE.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-%23009688.svg?style=for-the-badge)
 
 **Databases**  
